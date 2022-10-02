@@ -20,7 +20,7 @@ curl_setopt_array($curl, array(
   CURLOPT_HTTPHEADER => array(
     "content-type: application/x-www-form-urlencoded",
     // Silahkan diisi dengan api_key dari rajaongkir.com
-    "key: 3a14d3eae0a19c13badcc845eb189c77"
+    "key: "
   ),
 ));
 
